@@ -17,3 +17,4 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Tue 12/10    | [JS OOP](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week2/JS5_OOP.pdf) | [JS OOP Lab](https://github.com/Tuwaiq-SE-Riyadh/week02_day08_JS_OOP) | [JS OOP HW](https://github.com/Tuwaiq-SE-Riyadh/week02_day08_JS_OOP_HW) |
 | Wed 13/10    | [JS OOP warmup](https://github.com/Tuwaiq-SE-Riyadh/week02_day09_warmup_OOP) | [API Lab](https://github.com/Tuwaiq-SE-Riyadh/week02_day09_API) | [Online Store HW - Part 2](https://github.com/Tuwaiq-SE-Riyadh/week02_day09_OnlineStore_part2_HW) |
 
+**[Unit 1 Project](https://github.com/Tuwaiq-SE-Riyadh/Project-Unit-1)**
