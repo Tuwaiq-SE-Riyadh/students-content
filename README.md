@@ -18,3 +18,9 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Wed 13/10    | [JS OOP warmup](https://github.com/Tuwaiq-SE-Riyadh/week02_day09_warmup_OOP) | [API Lab](https://github.com/Tuwaiq-SE-Riyadh/week02_day09_API) | [Online Store HW - Part 2](https://github.com/Tuwaiq-SE-Riyadh/week02_day09_OnlineStore_part2_HW) |
 
 **[Unit 1 Project](https://github.com/Tuwaiq-SE-Riyadh/Project-Unit-1)**
+
+<br><br>
+
+| Day         | Topics      | Labs        | HWs |
+| ----------- | ----------- | ----------- | --- |
+| Sun 24/10   | [Introduction to Full Stack Development](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/Intoduction_to_full_stack_development.pdf) <br> [Advanced JavaScript](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week4/Advance_JavaScript.pdf)     |    [Full Stack Dev Lab](https://github.com/Tuwaiq-SE-Riyadh/week04_day16_fullStackDev) <br> [Advanced JavaScript Lab](https://github.com/Tuwaiq-SE-Riyadh/week04_day16_AdvancedJS)   | [Advanced JavaScript HW](https://github.com/Tuwaiq-SE-Riyadh/week04_day16_AdvancedJS_HW) |
