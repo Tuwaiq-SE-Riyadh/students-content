@@ -33,3 +33,5 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Tue 2/11   | Revision for react and redux | [Youtube Web](https://github.com/Tuwaiq-SE-Riyadh/week05-day23-MiniProject) | ---  |
 | Wed 3/11   | working on [Youtube Web](https://github.com/Tuwaiq-SE-Riyadh/week05-day23-MiniProject) | --- | ---  |
 | Thr 4/11   | [Github Branch](https://github.com/Tuwaiq-SE-Riyadh/Github-Workflow)  | [Github Lab](https://github.com/Tuwaiq-SE-Riyadh/week05-day25-Github-Lab) | ---  |
+
+**[Unit 2 Project](https://github.com/Tuwaiq-SE-Riyadh/Unit2-Project/blob/master/Readme.md)**
