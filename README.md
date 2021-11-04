@@ -32,4 +32,4 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Mon 1/11   | [Redux](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week5/Redux.pptx.pdf) | [Redux-counter Lab](https://github.com/Tuwaiq-SE-Riyadh/week05-day22-Redux-Counter) <br> [Redux-todo Lab](https://github.com/Tuwaiq-SE-Riyadh/week05-day22-Redux-Todo-lab)| ---  |
 | Tue 2/11   | Revision for react and redux | [Youtube Web](https://github.com/Tuwaiq-SE-Riyadh/week05-day23-MiniProject) | ---  |
 | Wed 3/11   | working on [Youtube Web](https://github.com/Tuwaiq-SE-Riyadh/week05-day23-MiniProject) | --- | ---  |
-| Thr 4/11   | [Github Branch](https://github.com/Tuwaiq-SE-Riyadh/Github-Workflow) <br> [Jest](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week5/Jest.pdf) | [Github Lab](https://github.com/Tuwaiq-SE-Riyadh/week05-day25-Github-Lab) <br> [Jest Lab](https://github.com/Tuwaiq-SE-Riyadh/week05-day25-Jest-Lab) | ---  |
+| Thr 4/11   | [Github Branch](https://github.com/Tuwaiq-SE-Riyadh/Github-Workflow)  | [Github Lab](https://github.com/Tuwaiq-SE-Riyadh/week05-day25-Github-Lab) | ---  |
