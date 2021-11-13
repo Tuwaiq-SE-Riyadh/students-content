@@ -35,3 +35,7 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Thr 4/11   | [Github Branch](https://github.com/Tuwaiq-SE-Riyadh/Github-Workflow)  | [Github Lab](https://github.com/Tuwaiq-SE-Riyadh/week05-day25-Github-Lab) | ---  |
 
 **[Unit 2 Project](https://github.com/Tuwaiq-SE-Riyadh/Unit2-Project/blob/master/Readme.md)**
+
+| Day         | Topics      | Labs        | HWs |
+| ----------- | ----------- | ----------- | --- |
+| Sun 14/11   | [Java Basics]() <br> [Arrays]()  | [Java Basics Lab](https://github.com/Tuwaiq-SE-Riyadh/W07D01-Java-basics-Lab) <br> [Arrays Lab]()   | [HW]() |
