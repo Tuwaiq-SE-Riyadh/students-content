@@ -38,4 +38,4 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 
 | Day         | Topics      | Labs        | HWs |
 | ----------- | ----------- | ----------- | --- |
-| Sun 14/11   | [Java Basics](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week7/SE%20L2T02%20-%20Introduction%20to%20Java%20Programming%20I%20-%20Java%20Basics.pdf) <br> [Arrays]()  | [Java Basics Lab](https://github.com/Tuwaiq-SE-Riyadh/W07D01-Java-basics-Lab) <br> [Arrays Lab]()   | [HW]() |
+| Sun 14/11   | [Java Basics](https://github.com/Tuwaiq-SE-Riyadh/students-content/blob/main/slides/week7/SE%20L2T02%20-%20Introduction%20to%20Java%20Programming%20I%20-%20Java%20Basics.pdf) <br> [Arrays]()   |   [Java Basics Lab](https://github.com/Tuwaiq-SE-Riyadh/W07D01-Java-basics-Lab) <br> [Arrays Lab]()    |   [HW]()    |
