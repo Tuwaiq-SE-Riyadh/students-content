@@ -39,9 +39,6 @@ Spring Boot provides its own unique ORM implementation that borrows from similar
 
 ----
 
-## Lab Time
-
-Now we can move into the [Step 3B]()
 
 #### Additional Reading
 
