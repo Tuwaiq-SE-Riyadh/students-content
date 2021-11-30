@@ -50,3 +50,4 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Thr 24/11   | [Spring Relations resources1](https://www.baeldung.com/spring-data-rest-relationships) <br> [Spring Relations resources2](https://tenmilesquare.com/resources/software-development/spring-boot-jpa-relationship-quick-guide/)| [Relation-LAB](https://github.com/maryam-balabeed/W08D05-Spring-Relation-LAB) |  ---  |
 | Sun 28/11   | Event | Event |  ---  |
 | Mon 29/11   | Spring Revision | [Lab](https://github.com/Tuwaiq-SE-Riyadh/W09D01-SpringRevision-lab) |  ---  |
+| Tue 30/11   | Spring Relations Revision | [Lab](https://github.com/AmalBalabid/W09D02-SpringRevision-Relation) |  ---  |
