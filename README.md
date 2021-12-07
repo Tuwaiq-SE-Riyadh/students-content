@@ -51,3 +51,6 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Sun 28/11   | Event | Event |  ---  |
 | Mon 29/11   | Spring data Revision | [Lab](https://github.com/Tuwaiq-SE-Riyadh/W09D01-SpringRevision-lab), [Solution](https://github.com/AmalBalabid/Spring-Revision-LAB-Solution) |  ---  |
 | Tue 30/11   | Spring Relations Revision | [Lab](https://github.com/AmalBalabid/W09D02-SpringRevision-Relation) |  ---  |
+| Tue 7/12   | Python fundamentals | [Lab](https://github.com/AmalBalabid/W10D03-Python-fundamentals) |  ---  |
+
+
