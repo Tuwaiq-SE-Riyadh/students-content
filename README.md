@@ -54,5 +54,4 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Sun 5/12   | Projects completion  |  --- |  ---  |
 | Mon 6/12   | Projects presentations   | [Sheet](https://docs.google.com/spreadsheets/d/17YVLo23kB5Cd7XkspvwH19wkUs3HOfzrSNw2XYmxRAo) |  ---  |
 | Tue 7/12   | Python fundamentals | [Lab](https://github.com/AmalBalabid/W10D03-Python-fundamentals) |  ---  |
-
-
+| Wed 8/12   | Python OOP | [Lab](https://github.com/AmalBalabid/W10D04-Python-OOP) |  ---  |
