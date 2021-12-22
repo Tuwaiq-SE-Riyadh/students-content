@@ -51,6 +51,7 @@ This page will contain all the content and resources needed in this bootcamp. Mo
 | Sun 28/11   | Event | Event |  ---  |
 | Mon 29/11   | Spring data Revision | [Lab](https://github.com/Tuwaiq-SE-Riyadh/W09D01-SpringRevision-lab), [Solution](https://github.com/AmalBalabid/Spring-Revision-LAB-Solution) |  ---  |
 | Tue 30/11   | Spring Relations Revision | [Lab](https://github.com/AmalBalabid/W09D02-SpringRevision-Relation) |  ---  |
+| Wed 1/12   | Java concepts Revision | [Lab](https://github.com/AmalBalabid/W09D04-Java-consepts) |  ---  |
 | Sun 5/12   | Projects completion  |  --- |  ---  |
 | Mon 6/12   | Projects presentations   | [Sheet](https://docs.google.com/spreadsheets/d/17YVLo23kB5Cd7XkspvwH19wkUs3HOfzrSNw2XYmxRAo) |  ---  |
 | Tue 7/12   | Python fundamentals | [Lab](https://github.com/AmalBalabid/W10D03-Python-fundamentals) |  ---  |
